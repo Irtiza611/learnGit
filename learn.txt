@@ -1,1 +1,3 @@
 i am new learner of git
+i am writing second line
+
